@@ -1,0 +1,24 @@
+{
+  "name": "Microsoft 草 for GitHub",
+  "description": "Change Contributions graph (草) in GitHub to Microsoft Color. (Off course non official!)",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/*"
+      ],
+      "css": [
+        "content_style.css"
+      ]
+    }
+  ],
+  "permissions": [
+    "https:://github.com/*"
+  ],
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  }
+}

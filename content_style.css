@@ -1,0 +1,25 @@
+rect.day[fill="#c6e48b"]{
+    fill:#ffbb00 !important;
+}
+rect.day[fill="#7bc96f"]{
+    fill:#7cbb00 !important;
+}
+rect.day[fill="#239a3b"]{
+    fill:#00a1f1 !important;
+}
+rect.day[fill="#196127"]{
+    fill:#f65314 !important;
+}
+
+.legend li:nth-child(2){
+    background-color:#ffbb00 !important;
+}
+.legend li:nth-child(3){
+    background-color:#7cbb00 !important;
+}
+.legend li:nth-child(4){
+    background-color:#00a1f1 !important;
+}
+.legend li:nth-child(5){
+    background-color:#f65314 !important;
+}
