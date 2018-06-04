@@ -1,4 +1,4 @@
-# Microsoft 草 for GitHub
+# ![Logo](48.png) Microsoft 草 for GitHub
 Change Contributions graph (草) in GitHub to Microsoft Color. (Off course non official!)
 
 GitHubの草をMicrosoftカラーに変えます。(言うまでもありませんが、非公式です)
